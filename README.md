@@ -3,5 +3,5 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/03/a1/92/03a192a2407f3fede88135c034b7a13f.gif" width="100%" />
+  <img src="https://i.pinimg.com/736x/35/ed/f6/35edf6bcb39ddde0173b66c50212d18f.jpg" width="90%" />
 </p>
